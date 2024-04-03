@@ -156,7 +156,7 @@ p {
   
   
   display: flex;
-  /* justify-content: space-around; */
+  
 }
 #hero .container ul li{
   font-size: larger;
